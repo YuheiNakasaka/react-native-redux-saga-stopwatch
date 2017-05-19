@@ -2,4 +2,4 @@
 
 StopWatch sample with react-native + redux + redux-saga.
 
-[![https://gyazo.com/6b3ec88db68d623924116509e8db6314](https://i.gyazo.com/6b3ec88db68d623924116509e8db6314.gif)](https://gyazo.com/6b3ec88db68d623924116509e8db6314)
+[![https://gyazo.com/236e3dd9db8a41c355383aa805105e19](https://i.gyazo.com/236e3dd9db8a41c355383aa805105e19.gif)](https://gyazo.com/236e3dd9db8a41c355383aa805105e19)
